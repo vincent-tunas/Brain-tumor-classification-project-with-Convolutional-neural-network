@@ -1,7 +1,7 @@
 
 # Brain Tumor Classification with Convolutional Neural Network
 
-In this project, I want to use Neural Network to be able to identify and classify different types of neural network. The end goal is I want to be able to create an app where a user can easily use their phone camera and scan a picture of a brain MRI Scans and immediately detect and classify the tumor. 
+In this project, I want to use Neural Network to be able to identify and classify different types of Brain Tumour. The end goal is I want to be able to create an app where a user can easily use their phone camera and scan a picture of a brain MRI Scans and immediately detect and classify the tumor. 
 This is the roadmap of the project
 
 ## The Roadmap
