@@ -12,6 +12,8 @@ This is the roadmap of the project
 |----------------|------------------------------------------------|
 | Backend Server | FastAPI, GCP                                   |
 | Front End      | React                                          |
+Kaggle Dataset is obtained from: https://www.kaggle.com/datasets/alamshihab075/brain-tumor-mri-dataset-for-deep-learning/data
+
 
 Steps:
 1.	Data collection
